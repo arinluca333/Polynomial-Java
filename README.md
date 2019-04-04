@@ -1,0 +1,1 @@
+A java  application with a swing interface. It can do opperations on polynomials.
